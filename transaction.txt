@@ -1,0 +1,13 @@
+
+Deposit	100	Thu Oct 12 15:02:00 2023
+Deposit	200	Thu Oct 12 15:02:04 2023
+Deposit	400	Thu Oct 12 15:02:14 2023
+Withdrawal	100	Thu Oct 12 15:02:22 2023
+Deposit	100	Thu Oct 12 15:23:55 2023
+Withdrawal	50	Thu Oct 12 15:23:59 2023
+Deposit	100	Thu Oct 12 21:16:34 2023
+Withdrawal	50	Thu Oct 12 21:16:44 2023
+Deposit	200	Thu Oct 12 21:25:34 2023
+Deposit	100	Tue Oct 24 15:11:57 2023
+Deposit	100	Tue Oct 24 15:13:17 2023
+Withdrawal	50	Tue Oct 24 15:13:35 2023
