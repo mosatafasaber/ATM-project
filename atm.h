@@ -8,3 +8,4 @@ void deposit(float&);
 void withdraw(float&);
 void getBalance(float);
 void getTransactionInfo();
+void run();

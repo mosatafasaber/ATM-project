@@ -1,4 +1,8 @@
-Deposit	1000	Fri Nov 03 23:22:42 2023
-Deposit	2500	Fri Nov 03 23:22:46 2023
-Deposit	2500	Fri Nov 03 23:24:18 2023
-Deposit	1000	Fri Nov 03 23:24:20 2023
+
+Deposit	1000	Fri Nov 10 19:10:00 2023
+Withdrawal	200	Fri Nov 10 19:10:07 2023
+Deposit	100	Fri Nov 10 19:10:20 2023
+Deposit	0	Fri Nov 10 19:10:30 2023
+Withdrawal	0	Fri Nov 10 19:10:46 2023
+Deposit	0	Fri Nov 10 19:10:54 2023
+Deposit	100	Fri Nov 10 19:14:51 2023
